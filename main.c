@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <module1.h>
 
-int main();
+int main( );
 
-int main() {
+int main( ) {
     //ASD
     int c;
     c = double_value(4,5);
